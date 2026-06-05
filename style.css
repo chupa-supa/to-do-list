@@ -88,3 +88,10 @@ h2 {
     color: red; 
     display: none;
 }
+
+.today {
+    background-color: rgba(139, 69, 19, 0.1);
+    border-left: 3px solid #8B4513;
+    padding-left: 10px;
+    border-radius: 4px;
+}
